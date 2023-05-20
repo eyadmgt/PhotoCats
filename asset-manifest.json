@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PhotoCats/static/css/main.974da663.css",
+    "main.js": "/PhotoCats/static/js/main.f2db86d8.js",
+    "static/media/cat4.jpeg": "/PhotoCats/static/media/cat4.5037e819f81cd4f4e03c.jpeg",
+    "static/media/cat6.jpeg": "/PhotoCats/static/media/cat6.ff8bead11b7b3d677020.jpeg",
+    "static/media/cat5.jpeg": "/PhotoCats/static/media/cat5.4b065263d03691e06bcd.jpeg",
+    "static/media/cat3.jpeg": "/PhotoCats/static/media/cat3.de47088e28f317c8ce57.jpeg",
+    "static/media/cat2.jpeg": "/PhotoCats/static/media/cat2.a142ed4f1d5b1b64922c.jpeg",
+    "static/media/cat1.jpeg": "/PhotoCats/static/media/cat1.3b6a97f948f7fa5263d1.jpeg",
+    "index.html": "/PhotoCats/index.html",
+    "main.974da663.css.map": "/PhotoCats/static/css/main.974da663.css.map",
+    "main.f2db86d8.js.map": "/PhotoCats/static/js/main.f2db86d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974da663.css",
+    "static/js/main.f2db86d8.js"
+  ]
+}
